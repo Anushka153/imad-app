@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 
 app.get('/', function (req, res) {
-  res.send("artcle 1"));
+  res.send("artcle 1");
 });
 
 app.get('/', function (req, res) {
